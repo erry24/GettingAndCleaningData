@@ -1,12 +1,12 @@
 # Getting And Cleaning Data
 
-All files must be in the working directory.
+**All files must be in the working directory.**
 
 
-The program run_analysis.R creates the file: activity_analysis.txt
+The program **run_analysis.R** creates the file: **activity_analysis.txt**
 
 activity_analysis.txt can be read with the following command: 
-my_data_frame <- read.table('activity_analysis.txt', header =TRUE)
+my_data_frame <- read.table('activity_analysis.txt', header=TRUE)
 
 
 Description of file: activity_analysis.txt
