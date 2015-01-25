@@ -1,0 +1,184 @@
+										DATA DICTIONARY - ACTIVITY ANALYSIS 
+										
+"subject"
+	Type: Numeric
+	Identifies subjects: 1 - 30							
+"activity.name"
+	Type: Character
+		"WALKING"
+		"WALKING_UPSTAIRS"
+		"WALKING_DOWNSTAIRS"
+		"SITTING"
+		"STANDING"
+		"LAYING"
+"tBodyAcc.mean...X"                    
+	Type: Numeric
+"tBodyAcc.mean...Y"                   
+	Type: Numeric
+"tBodyAcc.mean...Z"                    
+	Type: Numeric
+"tGravityAcc.mean...X"                
+	Type: Numeric
+"tGravityAcc.mean...Y"                 
+	Type: Numeric
+"tGravityAcc.mean...Z"                
+	Type: Numeric
+"tBodyAccJerk.mean...X"                
+	Type: Numeric
+"tBodyAccJerk.mean...Y"               
+	Type: Numeric
+"tBodyAccJerk.mean...Z"                
+	Type: Numeric
+"tBodyGyro.mean...X"                  
+	Type: Numeric
+"tBodyGyro.mean...Y"                   
+	Type: Numeric
+"tBodyGyro.mean...Z"                  
+	Type: Numeric
+"tBodyGyroJerk.mean...X"               
+	Type: Numeric
+"tBodyGyroJerk.mean...Y"              
+	Type: Numeric
+"tBodyGyroJerk.mean...Z"               
+	Type: Numeric
+"tBodyAccMag.mean.."                  
+	Type: Numeric
+"tGravityAccMag.mean.."                
+	Type: Numeric
+"tBodyAccJerkMag.mean.."              
+	Type: Numeric
+"tBodyGyroMag.mean.."                  
+	Type: Numeric
+"tBodyGyroJerkMag.mean.."             
+	Type: Numeric
+"fBodyAcc.mean...X"                    
+	Type: Numeric
+"fBodyAcc.mean...Y"                   
+	Type: Numeric
+"fBodyAcc.mean...Z"                    
+	Type: Numeric
+"fBodyAcc.meanFreq...X"               
+	Type: Numeric
+"fBodyAcc.meanFreq...Y"                
+	Type: Numeric
+"fBodyAcc.meanFreq...Z"               
+	Type: Numeric
+"fBodyAccJerk.mean...X"                
+	Type: Numeric
+"fBodyAccJerk.mean...Y"               
+	Type: Numeric
+"fBodyAccJerk.mean...Z"                
+	Type: Numeric
+"fBodyAccJerk.meanFreq...X"           
+	Type: Numeric
+"fBodyAccJerk.meanFreq...Y"            
+	Type: Numeric
+"fBodyAccJerk.meanFreq...Z"           
+	Type: Numeric
+"fBodyGyro.mean...X"                   
+	Type: Numeric
+"fBodyGyro.mean...Y"                  
+	Type: Numeric
+"fBodyGyro.mean...Z"                   
+	Type: Numeric
+"fBodyGyro.meanFreq...X"              
+	Type: Numeric
+"fBodyGyro.meanFreq...Y"               
+	Type: Numeric
+"fBodyGyro.meanFreq...Z"              
+	Type: Numeric
+"fBodyAccMag.mean.."                   
+	Type: Numeric
+"fBodyAccMag.meanFreq.."              
+	Type: Numeric
+"fBodyBodyAccJerkMag.mean.."           
+	Type: Numeric
+"fBodyBodyAccJerkMag.meanFreq.."      
+	Type: Numeric
+"fBodyBodyGyroMag.mean.."              
+	Type: Numeric
+"fBodyBodyGyroMag.meanFreq.."         
+	Type: Numeric
+"fBodyBodyGyroJerkMag.mean.."          
+	Type: Numeric
+"fBodyBodyGyroJerkMag.meanFreq.."     
+	Type: Numeric
+"angle.tBodyAccMean.gravity."          
+	Type: Numeric
+"angle.tBodyAccJerkMean..gravityMean."
+	Type: Numeric
+"angle.tBodyGyroMean.gravityMean."     
+	Type: Numeric
+"angle.tBodyGyroJerkMean.gravityMean."
+	Type: Numeric
+"angle.X.gravityMean."                 
+	Type: Numeric
+"angle.Y.gravityMean."                
+	Type: Numeric
+"angle.Z.gravityMean."                 
+	Type: Numeric
+"tBodyAcc.std...X"                    
+	Type: Numeric
+"tBodyAcc.std...Y"                     
+	Type: Numeric
+"tBodyAcc.std...Z"                    
+	Type: Numeric
+"tGravityAcc.std...X"                  
+	Type: Numeric
+"tGravityAcc.std...Y"                 
+	Type: Numeric
+"tGravityAcc.std...Z"                  
+	Type: Numeric
+"tBodyAccJerk.std...X"                
+	Type: Numeric
+"tBodyAccJerk.std...Y"                 
+	Type: Numeric
+"tBodyAccJerk.std...Z"                
+	Type: Numeric
+"tBodyGyro.std...X"                    
+	Type: Numeric
+"tBodyGyro.std...Y"                   
+	Type: Numeric
+"tBodyGyro.std...Z"                    
+	Type: Numeric
+"tBodyGyroJerk.std...X"               
+	Type: Numeric
+"tBodyGyroJerk.std...Y"                
+	Type: Numeric
+"tBodyGyroJerk.std...Z"               
+	Type: Numeric
+"tBodyAccMag.std.."                    
+	Type: Numeric
+"tGravityAccMag.std.."                
+	Type: Numeric
+"tBodyAccJerkMag.std.."                
+	Type: Numeric
+"tBodyGyroMag.std.."                  
+	Type: Numeric
+"tBodyGyroJerkMag.std.."               
+	Type: Numeric
+"fBodyAcc.std...X"                    
+	Type: Numeric
+"fBodyAcc.std...Y"                     
+	Type: Numeric
+"fBodyAcc.std...Z"                    
+	Type: Numeric
+"fBodyAccJerk.std...X"                 
+	Type: Numeric
+"fBodyAccJerk.std...Y"                
+	Type: Numeric
+"fBodyAccJerk.std...Z"                 
+	Type: Numeric
+"fBodyGyro.std...X"                   
+	Type: Numeric
+"fBodyGyro.std...Y"                    
+	Type: Numeric
+"fBodyGyro.std...Z"                   
+	Type: Numeric
+"fBodyAccMag.std.."                    
+	Type: Numeric
+"fBodyBodyAccJerkMag.std.."           
+	Type: Numeric
+"fBodyBodyGyroMag.std.."               
+	Type: Numeric
+"fBodyBodyGyroJerkMag.std.."  
