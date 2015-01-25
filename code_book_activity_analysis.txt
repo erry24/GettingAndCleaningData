@@ -1,4 +1,4 @@
-										DATA DICTIONARY - ACTIVITY ANALYSIS 
+DATA DICTIONARY - ACTIVITY ANALYSIS 
 										
 "subject"
 	Type: Numeric
