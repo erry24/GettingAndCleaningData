@@ -1,5 +1,5 @@
 # Getting And CleaningData
 Course Project
 Contains: 
-  Code Book
+  Code Book and 
   Activity Analysis file
